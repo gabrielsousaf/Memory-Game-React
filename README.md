@@ -11,10 +11,10 @@
   
 
 ## ⚙ Descrição do projeto.
-> * Permite adicionar novas tarefas, marcar como concluidas e excluir a mesma.<br>
-> * Permite filtrar as tarefas com base em seu status (todas, completas ou incompletas).<br>
-> * Permite ordenar as tarefas em ordem alfabética (ascendente ou descendente).<br>
-> * Possui uma barra de pesquisa para pesquisar tarefas com base no texto digitado.
+> * Toda vez que o jogo é iniciado as cartas são embaralhadas de forma aleatoria.<br>
+> * Se duas cartas forem as mesmas, vão ficar com fixas.<br>
+> * Se forem diferentes irão voltar ao estado inicial em alguns segundos<br>
+> * Se o jogo for finalizado, o sistema ira exibir uma mensagem.
  
 
 ## ☕ Tecnologias Usadas
