@@ -1,6 +1,6 @@
 <h1 align="center" width:100%>
-  
-![Todo List React - Google Chrome 2023-05-28 15-25-50](https://github.com/gabrielsousaf/Todo-List-React/assets/121953504/9ea46145-a88f-4e5c-b549-8d759dade1a2)
+
+![Design sem nome](https://github.com/gabrielsousaf/Memory-Game-React/assets/121953504/696ce847-dbd2-439b-9560-3e4b6d23f3ca)
 ![Design_sem_nome-removebg-preview](https://github.com/gabrielsousaf/Memory-Game-React/assets/121953504/6ab9f216-c128-4e32-9434-f385402448c7)
 
  
@@ -24,8 +24,7 @@
 [![JAVASCRIPT](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](#)
 [![REACT](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](#)
 
-https://gabrielsousaf.github.io/Todo-List-React/
-
+https://memory-game-bd30lf9e4-gabrielsousaf.vercel.app/
 
 
 ## 📎 Como Executar o projeto.
