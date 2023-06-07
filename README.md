@@ -14,7 +14,7 @@
 > * Toda vez que o jogo é iniciado as cartas são embaralhadas de forma aleatoria.<br>
 > * Se duas cartas forem as mesmas, vão ficar com fixas.<br>
 > * Se forem diferentes irão voltar ao estado inicial em alguns segundos<br>
-> * Se o jogo for finalizado, o sistema ira exibir uma mensagem.
+> * Se o jogo for finalizado, ou o usuario não conseguir terminar em 60 segundos o sistema ira exibir uma mensagem.
  
 
 ## ☕ Tecnologias Usadas
